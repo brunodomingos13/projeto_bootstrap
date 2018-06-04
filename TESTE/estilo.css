@@ -1,0 +1,118 @@
+h1, h2, h3{
+    text-align: center;
+}
+#section4{
+    margin-top: 40px;
+    text-align: center;
+    font-family: Tahoma,sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+#section3 h5{
+    color: #b8b8b8;
+}
+#section3 li{
+    list-style-image: url(img/icone_body_controle.jpg);
+    
+}
+#section7 li{
+    
+    color: #f0f0f0;
+}
+
+#section3 p{   
+    margin-left: 20px; 
+}
+#section41{
+    width: 100%; 
+}
+#section6 p{
+    font-family: Tahoma,sans-serif;
+    font-size: 15px;
+    color: #b8b8b8;
+}
+#section6 h3{
+    font-size: 24pt;
+}
+.btn-secundary{
+    background-color: #f73859;
+    color: #fff;
+}
+
+.btn-contactus{
+    background-color: #2c5999;
+    color: #ffffff;
+}
+.carousel-indicators .active {
+  background-color: #f73859
+}
+.txt-fixed {    
+    font-family: Tahoma, sans-serif;
+    text-align: left;
+    position:absolute;
+    top:33%;
+    left:19%;
+    right: 61%;
+    color: #fff;    
+}
+.txt-fixed h1{
+    font-family: Tahoma, sans-serif;
+    text-align:left;
+    font-size: 60,83 pt;    
+}
+.txt-fixed h2{
+    font-family: Tahoma, sans-serif;
+    text-align:left;
+    font-size: 52,84 pt;    
+}
+
+.input, textarea[type=text]{
+    width: 100%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+ }
+.input,textarea[type=text]:focus{
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+    
+ }
+.form-group input, textarea[type=text]{
+    padding-left: 40px;
+ }
+.form-group{
+    position: relative;
+ }
+.form-group i{
+    position: absolute;
+    left: 0;
+    top: 1px;
+    padding:  9px 8px;
+    color: #aaa;
+ }
+
+.form-control input[type=text]:focus + i{
+        color: dodgerblue;
+ }
+
+#section2 ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#section2 ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+
+
+
